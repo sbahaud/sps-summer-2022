@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-This repo contains the projects you'll work on throughout SPS.
+This is shaheenb's SPS repo.
 
 To get started:
 
